@@ -9,3 +9,5 @@ Week 07
 - [Version 2](https://LauraMitchell13.github.io/john-baskerville/version2.html)
 - 
 - [Version 3](https://LauraMitchell13.github.io/john-baskerville/version3.html)
+- 
+- [Version 4](https://LauraMitchell13.github.io/john-baskerville/version4.html)
