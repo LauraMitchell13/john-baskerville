@@ -36,6 +36,11 @@ font-weight: normal;
         font-size: 1.8em;
         padding: -0.5em 0 1em 0;
     }
+
+p {
+    
+    line-height: 1.8em;
+}
     
     .intro {
     font-size:1.4;
