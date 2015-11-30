@@ -24,3 +24,6 @@ Week 11, November 30th
 ------------------------
 
 - [Version 6](https://LauraMitchell13.github.io/john-baskerville/version6.html)
+
+- [Version 7](https://LauraMitchell13.github.io/john-baskerville/version7.html) 
+
