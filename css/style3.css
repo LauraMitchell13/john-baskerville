@@ -1,0 +1,118 @@
+* {padding: 0;
+    margin: 0;
+    font-size: 100;
+    line-height: 1em;
+}
+
+    body {
+    width: 75%;
+    max-width: 650px;
+        min-height: 320px;
+        font-size: 100%;
+        font-family: 'Libre Baskerville', Georgia Times, 'Times New Roman', serif;
+        margin: auto;
+    background-color: #f0f0f0;
+color: #567;
+    line-height: 1.8em;
+        }
+        
+section {padding: 2em 0 2em 0}
+        
+    /* ----------------TYPOGRAPHY------------------ */
+
+h1, h2, h3 {
+font-weight: normal;
+    color; #;
+    line-height: 1.5em;
+    text-align: centre;
+}
+    
+    h1 {font size: 6.78;}
+    h2 {font size: 4.56;}
+    h3 {font size: 2.34;}
+    
+    header h2 {
+        font-style: italic;
+        font-size: 1.8em;
+        padding: -0.5em 0 1em 0;
+    }
+
+p {
+    
+    line-height: 1.8em;
+}
+    
+    .intro {
+    font-size:1.4;
+    line-height: 1.9em;
+    padding: 2em 0 2em 0}
+    
+    
+    blockquote{
+    
+    padding: 2em 0;
+    font-size: 1.75em;
+    line-height: 1.5em;
+    margin: 0;
+    
+    }
+    
+    blockquote cite{
+    font-size: .75em;
+    
+    }
+    
+    /* -------------LINKS ----------*/
+    
+    a {
+    color: #c06;
+    text-decoration: none;
+    }
+    
+    .anchor a{color:aqua;}
+    
+    
+    /*-----------------NAV-------------*/
+    
+    nav {
+    
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333;
+    }
+    
+    nav ul {
+    
+    txt-align: centre;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    
+    }
+    
+nav ul li {
+
+display: inline;
+margin: 20px;
+}
+
+nav a:hover {
+    border-bottom: none;
+}
+
+/* ----------------- TABLE ----------------- */
+
+table {
+    margin: auto;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    border-colour: gray;
+}
+    
+caption {
+    margin-bottom: 1.5em;
+    text-transform: lowercase;
+    font-weight: normal;
+    text-align: centre;
+    background: #689;
+    
+}
