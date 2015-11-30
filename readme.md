@@ -21,5 +21,6 @@ Week 09, November 16th
 - [Version 5](https://LauraMitchell13.github.io/john-baskerville/version5.html)
 
 Week 11, November 30th
+------------------------
 
 - [Version 6](https://LauraMitchell13.github.io/john-baskerville/version6.html)
